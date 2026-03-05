@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Animated GIF showing code scrolling on a terminal screen" width="480"/>
+</p>
 
 ## 🛡️ Malware Analysis | Exploit Development | Reverse Engineering
 
@@ -39,4 +42,12 @@ I'm interested in:
 * Open‑source cybersecurity tools
 * Malware research collaboration
 * Blue‑team and defensive security projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=f4zzie&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub contribution streak statistics for f4zzie"/>
+</p>
 
