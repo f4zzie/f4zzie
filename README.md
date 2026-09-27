@@ -2,30 +2,19 @@
   <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Terminal with scrolling code" width="480"/>
 </p>
 
-# Fuzzie (f4zzie)
+# Fuzzie
 
-**Security researcher — binary exploitation · malware analysis · reverse engineering · CTFs**
+Offensive security. I break binaries, pull apart malware, and play CTFs, then write it all up at **[f4zzie.dev](https://f4zzie.dev/)** (84 writeups and counting).
 
-I break things to understand how they work, then write up what I learn. My research
-lives at **[f4zzie.dev](https://f4zzie.dev/)** — 84 hands-on writeups across binary
-exploitation, malware analysis, reverse engineering, and CTF play (picoCTF,
-perfectRootCTF, Hack The Box).
+[f4zzie.dev](https://f4zzie.dev/) · [HackerOne](https://hackerone.com/f4zzie) · [Bugcrowd](https://bugcrowd.com/_fuzzie_bear) · [X](https://x.com/f4zzi3)
 
-- 🔬 **Research & writeups:** [f4zzie.dev](https://f4zzie.dev/) · source in [MyNotes](https://github.com/f4zzie/MyNotes)
-- 🐛 **Bug bounty:** [HackerOne](https://hackerone.com/f4zzie) · [Bugcrowd](https://bugcrowd.com/_fuzzie_bear)
-- 🐦 **X:** [@f4zzi3](https://x.com/f4zzi3)
+### What I'm into
 
----
+* Binary exploitation. Buffer overflows, ROP, format strings, heap. pwntools and pwndbg are home.
+* Malware analysis and reverse engineering. PE internals, the Windows API, process injection, unpacking.
+* CTFs. picoCTF across every category, plus perfectRootCTF and Hack The Box.
+* Bug bounty on HackerOne and Bugcrowd, web and binary targets.
 
-## What I'm working on
+### Toolbox
 
-- **Binary exploitation** — buffer overflows, ROP, format strings, heap; pwntools + gdb/pwndbg.
-- **Malware analysis & reverse engineering** — PE internals, Windows API, process injection, static/dynamic analysis.
-- **CTFs** — picoCTF (pwn/rev/web/general/blockchain), perfectRootCTF, and Hack The Box.
-- **Bug bounty** — web and binary targets, responsible disclosure on HackerOne and Bugcrowd.
-
-Currently going deep on low-level exploitation and building out the writeup archive.
-
-## Tooling
-
-`C` · `Python` (pwntools) · `TypeScript` · `gdb` / `pwndbg` · `Astro` (the site behind f4zzie.dev)
+C, Python, TypeScript, gdb, pwndbg, and Astro (what powers f4zzie.dev).
