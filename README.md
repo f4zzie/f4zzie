@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm f4zzie 👋</h1>
 
 <p align="center">
-  Computer science student building desktop apps, mobile apps, and a programming language from scratch,<br>
-  while learning offensive and defensive security on the side.
+  Aspiring security engineer focused on Active Directory, web application security, and mobile security.<br>
+  I learn by breaking things in a lab, then writing up what I found.
 </p>
 
 <p align="center">
@@ -15,54 +15,56 @@
 
 ---
 
-## What I'm working on
+## Focus areas
 
-- **Kite**: my own programming language and compiler, written in C++20, targeting a bytecode stack VM (class project)
-- **Uzima**: rebuilding my borehole drilling management app from scratch as a modern desktop app
-- **Soko Bei**: a crowdsourced produce price tracker for Kenyan markets (Kotlin + Cassandra)
-- **Security labs**: a home lab, CTF write-ups, and Active Directory practice
-
----
-
-## Featured projects
-
-### [Uzima](https://github.com/f4zzie/uzima): Borehole Drilling Management
-Started life as a Java Swing + MySQL app and is now being rebuilt as a modern desktop application. It manages the day-to-day operations of a borehole drilling business.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Kite: A Language and Compiler
-A from-scratch programming language (`.kite` files) with a C++20 compiler that emits bytecode for a stack-based virtual machine. It covers lexing, parsing, code generation, and the VM runtime.
-![C++](https://img.shields.io/badge/C++20-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### Soko Bei: Market Price Tracker
-Farmers and buyers report what produce actually costs at their local market, giving everyone a live, crowdsourced view of prices.
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+- **Active Directory**: enumeration, attack paths, and defensive hardening in a self-built lab
+- **Web application security**: OWASP Top 10 vulnerabilities, exploited and then fixed
+- **Mobile security**: Android app testing against the OWASP MASVS
+- **Capture the Flag**: regular practice with public write-ups
 
 ---
 
-## Cybersecurity
+## Home lab
 
-I'm building skills through hands-on practice and documenting what I learn:
+A lab of deliberately vulnerable targets for safe, legal practice:
 
-- **Home lab**: intentionally vulnerable apps such as DVWA and OWASP Juice Shop
-- **CTFs**: write-ups from Hack The Box, TryHackMe, and PicoCTF
-- **Mobile**: Android security testing against the OWASP MASVS
-- **Active Directory**: attack and defence labs (in progress)
+| Target | Purpose |
+|---|---|
+| DVWA | Classic web vulnerabilities at adjustable difficulty |
+| OWASP Juice Shop | Modern JavaScript app with a wide spread of OWASP Top 10 flaws |
+| Active Directory domain | Attack and defence practice: enumeration, privilege escalation, lateral movement |
+
+The Active Directory environment is built and run in the cloud using the AWS student pack.
 
 ---
 
-## Tech stack
+## CTF write-ups
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+I publish walkthroughs that explain the reasoning behind each step, not just the final flag.
+
+| Platform | What I cover |
+|---|---|
+| Hack The Box | Machines and challenges |
+| TryHackMe | Rooms and learning paths |
+| PicoCTF | Challenges across web, crypto, forensics, and reverse engineering |
+
+---
+
+## Mobile security
+
+Android security testing structured around the OWASP Mobile Application Security Verification Standard (MASVS):
+
+- Static and dynamic analysis of Android apps
+- Insecure data storage and communication checks
+- Findings documented against MASVS requirements
+
+---
+
+## How I work
+
+- Everything is tested only on systems I own or have explicit permission to test
+- Write-ups focus on methodology: reconnaissance, hypothesis, exploitation, and remediation
+- Each finding ends with how it would be detected and fixed
 
 ---
 
@@ -77,6 +79,6 @@ I'm building skills through hands-on practice and documenting what I learn:
 
 ## Let's connect
 
-I'm open to internships, collaborations, and security-minded projects. Open an issue on any of my repos or reach out through my profile.
+I'm open to security internships, collaboration on labs and CTFs, and feedback on my write-ups. Open an issue on any of my repos or reach out through my profile.
 
-<p align="center"><i>Always learning. Always shipping.</i></p>
+<p align="center"><i>Learn it, break it, document it, fix it.</i></p>
