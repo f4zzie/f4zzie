@@ -68,15 +68,6 @@ Android security testing structured around the OWASP Mobile Application Security
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=f4zzie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4zzie&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## Let's connect
 
 I'm open to security internships, collaboration on labs and CTFs, and feedback on my write-ups. Open an issue on any of my repos or reach out through my profile.
